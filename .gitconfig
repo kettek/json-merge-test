@@ -1,3 +1,4 @@
 [merge "json"]
   name = Custom JSON merge
-  driver = node ../json-merge/index.js %O %A %B
+  driver = node ../json-merge/index.js %O %A %B || git merge-file -L "current" -L "base" -L "incoming" --marker-size=%L %A %O %B
+  conflictstyle = diff3
