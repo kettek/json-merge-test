@@ -1,0 +1,3 @@
+[merge "json"]
+  name = Custom JSON merge
+  driver = node ../json-merge/index.js %O %A %B
