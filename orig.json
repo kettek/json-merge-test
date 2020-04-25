@@ -1,7 +1,7 @@
 {
 	"uuid": "6d9e06cd-fb53-4352-9f08-535afcb3a633",
 	"title": "untitled TileSet",
-	"image": "Tower1/base2.png",
+	"image": "Tower1/base3.png",
 	"editor": {
 		"folders": [
 			"",
@@ -4384,7 +4384,7 @@
 						},
 						{
 							"palettes": "a605b1b6-d983-4105-b57a-f53480d0b30d",
-							"palette": "dbea2e37-2853-4fc0-a0ad-2a5f4fe4dff8",
+							"palette": "21ce576a-b9b3-4ebe-bce8-ae5193f61492",
 							"x": 21,
 							"y": 0,
 							"clipX": 176,
